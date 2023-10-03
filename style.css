@@ -1,0 +1,36 @@
+body{
+background-color: #2ac924;
+margin-top: 0;
+margin-bottom: 0;
+margin-right: 0;
+margin-left: 0;
+}
+.cabeçario{
+background-color: #95dd92;
+background-color: ;
+    color: #ffffffb9;
+    font-size: 60px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
+.principal{
+    background-color: rgba(3, 105, 11, 0.445);
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+
+}
+.bola{
+    width: 600px;
+
+}
+.rodape{
+background-color: #95dd92;
+background-color: ;
+    color: #ffffffb9;
+    font-size: 60px;
+    margin-top: 0;
+    padding: 10px;
+    text-align: center;
+}
